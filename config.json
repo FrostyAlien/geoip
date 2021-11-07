@@ -19,7 +19,8 @@
         "wantedList": ["cn"],
         "onlyIPType": "ipv4"
       }
-    },
+    }
+  ],
   "output": [
     {
       "type": "v2rayGeoIPDat",
