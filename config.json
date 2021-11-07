@@ -53,8 +53,8 @@
       "type": "v2rayGeoIPDat",
       "action": "output",
       "args": {
-        "outputName": "geoip-only-cn-private.dat",
-        "wantedList": ["cn", "private"]
+        "outputName": "geoip-not-cn.dat",
+        "wantedList": ["!cn"]
       }
     },
     {
